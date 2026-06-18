@@ -1,6 +1,7 @@
 # Generated reports
 Reports/
 *.xlsb
+*_backup_*.xlsb
 
 # Large local master (keep outside git; copy manually per site)
 Copy of Copy of PSR_RAWDATA - new.xlsb
