@@ -1,0 +1,6 @@
+openpyxl>=3.1.0
+pandas>=2.0.0
+pyodbc>=5.0.0
+sqlalchemy>=2.0.0
+pyxlsb>=1.0.10
+pywin32>=306

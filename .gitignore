@@ -1,0 +1,27 @@
+# Generated reports
+Reports/
+*.xlsb
+
+# Large local master (keep outside git; copy manually per site)
+Copy of Copy of PSR_RAWDATA - new.xlsb
+
+# Optional: large Excel template — uncomment if you host template elsewhere
+# PSR_Graphs_Template.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs / probes
+xlsb_inspect.txt
+layout_probe.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env
